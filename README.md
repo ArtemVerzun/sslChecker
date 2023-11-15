@@ -7,10 +7,10 @@
 
 Результат работы:
 * БД
-  ![image](https://github.com/ArtemVerzun/sslChecker/assets/143192676/e098c13e-85b2-4d5d-82cc-00b42b8e76f3)
+![image](https://github.com/ArtemVerzun/sslChecker/assets/143192676/e098c13e-85b2-4d5d-82cc-00b42b8e76f3)
 
 * Консоль
-  ![image](https://github.com/ArtemVerzun/sslChecker/assets/143192676/84b845a2-3550-48bd-b7c5-6463c158eaba)
+![image](https://github.com/ArtemVerzun/sslChecker/assets/143192676/84b845a2-3550-48bd-b7c5-6463c158eaba)
 
 Также добавлена проверка на дубликаты записей, при второй попытке записи данных в БД не создадутся такие же записи:
 
